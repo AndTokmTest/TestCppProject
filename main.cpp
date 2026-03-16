@@ -227,8 +227,8 @@ int main(const int argc,
     }();
 
 
-    demos::test();
-    // Integer v { 42 };
+    // demos::test();
+    Integer v { 42 };
 
 
     return EXIT_SUCCESS;
